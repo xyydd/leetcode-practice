@@ -1,0 +1,24 @@
+.DS_Store
+node_modules/
+/dist/
+*.zip
+*.tar.gz
+*.csv
+*.doc
+*.docx
+gitpush.sh
+upload.sh
+konnect_front_check-doc.md
+konnect_front-doc.md
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+coverage/
+
+# Editor directories and files
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
